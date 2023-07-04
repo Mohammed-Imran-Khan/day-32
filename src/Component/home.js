@@ -5,24 +5,19 @@ export default function Home(){
     return(
         <BaseApp>
             <div className="home">
-               
-                <h1>Welcome to our online book library website!</h1><br></br>
-                <p>We are thrilled to provide you with a virtual haven for all your reading needs. Our website offers an extensive collection of books from various genres, ensuring there's something for every avid reader out there.</p>
+                <h1>Welcome to our online magazine library!</h1><br></br>
+                <p>We are excited to bring you a virtual hub for all your reading interests. Our website hosts a diverse collection of magazines spanning various topics, providing a wealth of content for every curious mind.</p>
 
-                <p>With our user-friendly interface and intuitive search system, you can easily explore our vast catalog and discover new titles or find your favorite classics. Whether you're interested in fiction, non-fiction, science fiction, mystery, romance, or any other genre, we've got you covered.</p>
+                <p>With our user-friendly interface and intuitive search system, exploring our extensive catalog is a breeze. Discover the latest issues or explore back editions of your favorite magazines. Whether you're into fashion, technology, lifestyle, sports, or any other subject, we have you covered.</p>
 
-                <p>One of the highlights of our website is the convenience it offers. No longer do you need to physically visit a library or bookstore; you can access our library from the comfort of your own home, office, or anywhere with an internet connection. Simply browse through our digital shelves, read book summaries, reviews, and even preview chapters to help you make informed choices.</p>
+                <p>One of the standout features of our platform is the convenience it offers. No longer do you have to hunt for physical copies or wait for subscriptions to arrive in your mailbox. With a few clicks, you can access a treasure trove of articles, interviews, and insightful features from the comfort of your own home or on the go.</p>
 
-                <p>We understand that everyone has different reading preferences, so we've made sure to cater to various reading formats. You can choose to read books online using our integrated e-reader, download e-books to read offline on your preferred device, or even listen to audiobooks on the go. It's all about providing flexibility and options to enhance your reading experience.</p>
+                <p>We understand that every reader has unique preferences, and that's why we provide multiple reading formats. Dive into our digital reader for an immersive online experience, download issues to read offline at your convenience, or even listen to audio versions of select articles. The choice is yours.</p>
 
-                <p>Creating an account on our website gives you access to additional features. You can create personalized reading lists, bookmark your favorite books, and receive recommendations based on your reading history. Engage with a community of fellow book lovers through discussion forums, book clubs, and author interviews.</p>
+                <p>By creating an account on our website, you gain access to additional perks. Curate personalized reading lists, bookmark your favorite articles, and receive tailored recommendations based on your interests. Engage in discussions with fellow readers through comment sections and participate in interactive quizzes and contests.</p>
 
-                <p>For those seeking a sense of nostalgia, we also offer a section dedicated to rare and out-of-print books. Discover literary treasures from the past and explore works that may have been forgotten over time.</p>
-
-                <p>We constantly update our library with new releases, bestsellers, and critically acclaimed books, ensuring that you'll always find something fresh and exciting to read. Our dedicated team of bibliophiles is committed to curating a diverse collection that caters to all ages and interests.</p>
-
-                <p>So, whether you're a bookworm, a casual reader, or someone just starting to explore the world of books, we invite you to immerse yourself in our virtual library and embark on a literary journey like no other. Happy reading!</p>
-
+                <p>For those seeking a nostalgic touch, we also offer a curated selection of vintage magazine editions. Revisit iconic moments in history, delve into timeless articles, and rediscover the charm of bygone eras.</p>
+                <p>So, whether you're a magazine aficionado, a curious explorer, or someone eager to broaden your knowledge, we invite you to immerse yourself in our virtual library and embark on a captivating journey through the pages of our extensive magazine collection. Enjoy the experience!</p>
             </div>
         </BaseApp>
     )
